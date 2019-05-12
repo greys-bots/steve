@@ -14,7 +14,7 @@
     "pngjs-image": "^0.11.7",
     "sharp": "^0.20.5",
     "sqlite": "^2.9.2",
-    "sqlite3": "^3.1.9"
+    "sqlite3": "^4.0.8"
   },
   "devDependencies": {},
   "scripts": {
