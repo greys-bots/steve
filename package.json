@@ -1,0 +1,37 @@
+{
+  "name": "steve-bot",
+  "version": "1.0.0",
+  "description": "Sterv-boot uwu",
+  "main": "Steve.js",
+  "engines": {
+    "node": "8.x",
+    "npm": "*"
+  },
+  "dependencies": {
+    "discord": "^0.8.2",
+    "discord.js": "^11.3.0",
+    "pg": "^7.4.3",
+    "pngjs-image": "^0.11.7",
+    "sharp": "^0.20.5",
+    "sqlite": "^2.9.2",
+    "sqlite3": "^3.1.9"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node Steve.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/XGreySkiesX/Sterv-Boot.git"
+  },
+  "keywords": [
+    "steve"
+  ],
+  "author": "GS",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/XGreySkiesX/Sterv-Boot/issues"
+  },
+  "homepage": "https://github.com/XGreySkiesX/Sterv-Boot#readme"
+}
